@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p.dotted {border-style: dotted;}
+
+</style>
+</head>
+<body>
+
+<h2>TEB LOL</h2>
+<p>Kiera, Sidney, Sophie, and Arish </p>
+
+<p class="dotted">We are a group of Saint Mary's Students learning how to code CSS.</p>
+
+</body>
+</html>
