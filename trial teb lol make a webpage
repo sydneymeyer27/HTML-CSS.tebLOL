@@ -1,25 +1,22 @@
 <!DOCTYPE html>
 <html>
-<<<<<<< Updated upstream
-<head>
-<style>
-body {
-  background-color: lightblue;
-}
-
-h1 {
-  color: black;
-  text-align: center;
-}
-a {
-  color: hotpink;
-}
-=======
->>>>>>> Stashed changes
 
 <head>
     <style>
         body {
+            background-color: black;
+        }
+        
+        h1 {
+            color: black;
+            text-align: center;
+        }
+        
+        a {
+            color: hotpink;
+        }
+        
+        <head><style>body {
             background-color: ;
         }
         
