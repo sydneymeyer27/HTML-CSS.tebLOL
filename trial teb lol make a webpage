@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+<<<<<<< Updated upstream
 <head>
 <style>
 body {
@@ -13,21 +14,44 @@ h1 {
 a {
   color: hotpink;
 }
+=======
+>>>>>>> Stashed changes
 
-p {
-  font-family: verdana;
-  font-size: 20px;
-}
-</style>
+<head>
+    <style>
+        body {
+            background-color: ;
+        }
+        
+        h1 {
+            color: white;
+            text-align: center;
+        }
+        
+        h1 {
+            color: black text-align: center;
+        }
+        
+        a {
+            color: hotpink;
+        }
+        
+        p {
+            font-family: verdana;
+            font-size: 25px;
+        }
+    </style>
 </head>
+
 <body>
-<h1>TEB 2019</h1>
-<p>Arish, Kiera, Sophie, and Sydney</p>
-<p>We are a group of Saint Mary's students excited to be learning about new technologies and preparing ourselves for our future. We have worked hard to learn new software such as Git, Sourcetree, Atom, HMTL, and CSS.
-  <p><b><a href="default.asp" target="_blank">Meet Arish</a></b></p>
-  <p><b><a href="default.asp" target="_blank">Meet Kiera</a></b></p>
-  <p><b><a href="default.asp" target="_blank">Meet Sophie</a></b></p>
-  <p><b><a href="default.asp" target="_blank">Meet Sydney</a></b></p>
+    <h1>TEB 2019</h1>
+    <p>Arish, Kiera, Sophie, and Sydney</p>
+    <p>We are a group of Saint Mary's students excited to be learning about new technologies and preparing ourselves for our future. We have worked hard to learn new software such as Git, Sourcetree, Atom, HMTL, and CSS.
+        <p><b><a href="default.asp" target="_blank">Meet Arish</a></b></p>
+        <p><b><a href="default.asp" target="_blank">Meet Kiera</a></b></p>
+        <p><b><a href="default.asp" target="_blank">Meet Sophie</a></b></p>
+        <p><b><a href="default.asp" target="_blank">Meet Sydney</a></b></p>
 
 </body>
+
 </html>
