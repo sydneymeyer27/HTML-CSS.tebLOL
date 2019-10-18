@@ -9,18 +9,23 @@
             h1 {
                 color:rgb(31, 28, 80);
                 text-align: center;
+                font-family:'Courier New', Courier, monospace;
+            
             }
             h2 {
                 color:white;
-                text-align:center
+                text-align:center;
+                font-family:'Courier New', Courier, monospace;
             }
             h3 {
                 color:white;
                 text-align:center;
+                font-family:'Courier New', Courier, monospace;
             }
             h4{
                 color:white;
                 text-align:center;
+                font-family:'Courier New', Courier, monospace;
             }
 
     
@@ -35,6 +40,7 @@
 
     <body>
         <h1>Sophie Elcenko </h1>
+        <img src="Sophie Elcenko.JPEG" >
         <h2>MAJOR: Finance </h2>     
         <h2>MINOR: Computer Science </h2>
         <h3> Graduation Date: 2022 </h3>
