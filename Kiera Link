@@ -1,41 +1,53 @@
-!DOCTYPE html>
 <html>
 
 <head>
     <style>
         body {
-            background-color: black;
+            background-color:rgba(124, 7, 7, 0.575)
         }
-        
-        h1 {
-            color: black;
+    
+        h1, h4  {
+            color:white;
             text-align: center;
+            font-family:'Courier New', Courier, monospace 
         }
-        
-        a {
-            color: hotpink;
-        }
-        
-        <head><style>body {
-            background-color: ;
-        }
-        
-        h1 {
-            color: white;
+
+        h2 {
+            color: rgb(197, 128, 157);
             text-align: center;
+            font-family:'Courier New', Courier, monospace
         }
-        
-        h1 {
-            color: black text-align: center;
+        h3 {
+            color:rgb(197, 128, 157);
+            text-align: center;
+            font-family:'Courier New', Courier, monospace
         }
-        
-        a {
-            color: hotpink;
+        h5 { color:white;
+            text-align: center;
+            font-family:'Courier New', Courier, monospace;
         }
-        
-        p {
-            font-family: verdana;
-            font-size: 25px;
+        img{
+            display: block;
+            margin-left: auto;
+            margin-right: auto;  
         }
+
     </style>
 </head>
+
+<body>
+    <h1>Kiera Armintrout</h1>
+    <img src="KIERA.jpg" width=50% class ="center" data-rotate="90">
+  
+
+    
+    <h2>Majors: Marketing and Economics</h2>
+    <h3>Minor: Mathematics</h3>
+    <h3>Graduation Date: 2021</h3>
+    <h4>I am a junior at Saint Mary's College of California pursuing a double major in Business Administration with a concentration 
+            in Marketing and Economics, and a minor in math. I recently returned from an exchange semester in Barcelona, Spain where I learned 
+            more about global business and maintaining a globa mindset. I want to learn more about technology, and how I can integrate my business and economic market understanding with 
+            technological innovation</h4>.
+    <h3>
+        <p><b><a href="https://www.linkedin.com/in/kiera-armintrout-344a25171/" target="https://www.linkedin.com/in/kiera-armintrout-344a25171/">Please Visit My Linkedin Page</a></b></p>
+
