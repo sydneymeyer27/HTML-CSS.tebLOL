@@ -32,7 +32,8 @@
         }
         
         p {
-            color: black
+            color: rgb(82, 80, 80);
+            font-family: Georgia, 'Times New Roman', Times, serif;
         }
         
         img {
@@ -46,9 +47,10 @@
 <body>
 
     <h1>Sydney Meyer</h1>
-    <p>Major: Economics</p>
-    <p> Minors: Math, Computer Science, and Anthroplogy</p>
-    <p>Graduation: 2021</p>
+    <h2>Major: Economics</h2>
+    <h3> Minors: Math, Computer Science, and Anthroplogy</h3>
+    <h4>Graduation: 2021</h4>
+    <p>I am a Junior at Saint Mary's College of California pursuing a Bachelor of Science in Economoics. </p>
     <p><b><a href="www.linkedin.com/in/sydneyemeyer" target="www.linkedin.com/in/sydneyemeyer">Visit My Linkedin Page</a></b></p>
 
 
