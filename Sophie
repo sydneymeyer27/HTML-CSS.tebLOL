@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+        <style>
+            body {
+                background-color:rgb(66, 159, 172);
+            }
+            h1 {
+                color:rgb(31, 28, 80);
+                text-align: center;
+                font-family:'Courier New', Courier, monospace;
+            
+            }
+            h2 {
+                color:white;
+                text-align:center;
+                font-family:'Courier New', Courier, monospace;
+            }
+            h3 {
+                color:white;
+                text-align:center;
+                font-family:'Courier New', Courier, monospace;
+            }
+            h4{
+                color:white;
+                text-align:center;
+                font-family:'Courier New', Courier, monospace;
+            }
+
+    
+        
+
+
+
+
+        
+        </style>
+    </head>
+
+    <body>
+        <h1>Sophie Elcenko </h1>
+        <img src="Sophie Elcenko.JPEG" >
+        <h2>MAJOR: Finance </h2>     
+        <h2>MINOR: Computer Science </h2>
+        <h3> Graduation Date: 2022 </h3>
+                <h4> I am a sophomore Business major concentrating in 
+                    Finance and minoring in computer science. Looking toward the future, I hope to develop and utilize my
+                     financial and computer science knowledge within the growing fintech industry. I am happy to be apart of the TEB
+                     program where I am being exposed  to technologies that will help me succeed in the cutting-edge tech field.</h4>
+
+
+
+
+
+
+    </body>
+    
+
+        
+
+
+
+
+
+
+
+    
