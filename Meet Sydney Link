@@ -7,23 +7,23 @@
             background-color:rgb(165, 203, 209);
         }
         h1 {
-            color:rgb(31, 28, 80);
+            color:navy;
             text-align: center;
             font-family:'Courier New', Courier, monospace;
         
         }
         h2 {
-            color:white;
+            color:black;
             text-align:center;
             font-family:'Courier New', Courier, monospace;
         }
         h3 {
-            color:white;
+            color:black;
             text-align:center;
             font-family:'Courier New', Courier, monospace;
         }
         h4{
-            color:white;
+            color:black;
             text-align:center;
             font-family:'Courier New', Courier, monospace;
         }
