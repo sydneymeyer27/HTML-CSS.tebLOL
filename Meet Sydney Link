@@ -2,42 +2,7 @@
 <html>
 
 <head>
-    <style>
-        body {
-            background-color: black;
-        }
-        
-        h1 {
-            color: black;
-            text-align: center;
-        }
-        
-        a {
-            color: hotpink;
-        }
-        
-        <head><style>body {
-            background-color: ;
-        }
-        
-        h1 {
-            color: white;
-            text-align: center;
-        }
-        
-        h1 {
-            color: black text-align: center;
-        }
-        
-        a {
-            color: hotpink;
-        }
-        
-        p {
-            font-family: verdana;
-            font-size: 25px;
-        }
-    </style>
+    <link rel="stylesheet" href="styles.css">
 </head>
 
 <body>
@@ -45,11 +10,12 @@
     <h1>TEB 2019</h1>
     <p>Sydney</p>
     <p>Hi my name is Sydney</p>
-        <p><b><a href="arish" target="_arish">Meet Arish</a></b></p>
-        <p><b><a href="Kiera Link" target="_Kiera_Link">Meet Kiera</a></b></p>
-        <p><b><a href="Sophie" target="_sophie">Meet Sophie</a></b></p>
-        <p><b><a href="Meet Sydney Link" target="_meet_sydney_link">Meet Sydney</a></b></p>
+    <p><b><a href="arish" target="_arish">Meet Arish</a></b></p>
+    <p><b><a href="Kiera Link" target="_Kiera_Link">Meet Kiera</a></b></p>
+    <p><b><a href="Sophie" target="_sophie">Meet Sophie</a></b></p>
+    <p><b><a href="Meet Sydney Link" target="_meet_sydney_link">Meet Sydney</a></b></p>
 
 </body>
 </table>
+
 </html>
