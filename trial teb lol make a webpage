@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-
 <head>
     <style>
         body {
@@ -9,41 +8,37 @@
         
         h1 {
             font-size: 40px;
-            color: white;
+            color:white;
             text-align: center;
             font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
         }
-        
         h2 {
             font-size: 30px;
-            color: white;
+            color:white;
             text-align: center;
             font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
         }
-        
-        h3 {
+        h3{
             font-size: 25px;
-            color: white;
+            color:white;
             text-align: center;
             font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
         }
-        
-        a {
+        a{
             color: white;
             text-align: center;
         }
-        
         img {
-            display: block;
-            margin-left: auto;
-            margin-right: auto;
-        }
-        
-        table {
-            font-size: 18px;
-            color: White;
-            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-        }
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+            }
+            table {
+                font-size: 18px;
+                color: White;
+                font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            }
+            
     </style>
 </head>
 
@@ -59,36 +54,27 @@
             <th>Badges</th>
         </tr>
         <tr>
-            <th>Kiera Armintrout</th>
-            <th>
-                <p><b><a href="Kiera Link" target="_kiera_link">Meet Kiera</a></b></p>
-            </th>
-            <th>?</th>
+           <th>Kiera Armintrout</th> 
+           <th><p><b><a href="Kiera Link" target="_kiera_link">Meet Kiera</a></b></p></th>
+           <th>?</th>
         </tr>
         <tr>
             <th> Sophie Elcenko</th>
-            <th>
-                <p><b><a href="Sophie" target="_sophie">Meet Sophie</a></b></p>
-            </th>
+            <th><p><b><a href="Sophie" target="_sophie">Meet Sophie</a></b></p></th>
             <th>?</th>
         </tr>
         <tr>
             <th> Sydney Meyer</th>
-            <th>
-                <p><b><a href="Meet Sydney Link" target="_blank">Meet Sydney</a></b></p>
-                </h1>
-            </th>
+            <th> <p><b><a href="Meet Sydney Link" target="_blank">Meet Sydney</a></b></p></h1></th>
             <th>?</th>
         </tr>
         <tr>
             <th> Arish Balasubramaniam</th>
-            <th>
-                <p><b><a href="arish" target="_arish">Meet Arish</a></b></p>
-            </th>
+            <th><p><b><a href="arish" target="_arish">Meet Arish</a></b></p></th>
             <th>?</th>
         </tr>
     </table>
-    <img src="https://cdn.britannica.com/31/204431-138-B5008F47/time-lapse-video-San-Francisco.jpg" width="50%">
+        <img src="https://cdn.britannica.com/31/204431-138-B5008F47/time-lapse-video-San-Francisco.jpg" width="50%">
 
 </body>
 
