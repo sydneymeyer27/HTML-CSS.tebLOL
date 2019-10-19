@@ -8,31 +8,32 @@
         }
         
         h1 {
-            color: navy;
+            color: rgb(8, 8, 105);
             text-align: center;
-            font-family: 'Courier New', Courier, monospace;
+            font-family:Georgia, 'Times New Roman', Times, serif;
         }
         
         h2 {
-            color: black;
+            color:rgb(8, 8, 105);
             text-align: center;
-            font-family: 'Courier New', Courier, monospace;
+            font-family: Georgia, 'Times New Roman', Times, serif;
         }
         
         h3 {
-            color: black;
+            color: rgb(8, 8, 105);
             text-align: center;
-            font-family: 'Courier New', Courier, monospace;
+            font-family: Georgia, 'Times New Roman', Times, serif;
         }
         
         h4 {
-            color: black;
+            color: rgb(8, 8, 105);
             text-align: center;
-            font-family: 'Courier New', Courier, monospace;
+            font-family: Georgia, 'Times New Roman', Times, serif;
         }
         
         p {
-            color: black
+            color: rgb(82, 80, 80);
+            font-family: Georgia, 'Times New Roman', Times, serif;
         }
         
         img {
@@ -46,12 +47,13 @@
 <body>
 
     <h1>Sydney Meyer</h1>
-    <p>Major: Economics</p>
-    <p> Minors: Math, Computer Science, and Anthroplogy</p>
-    <p>Graduation: 2021</p>
+    <img src="Syd.jpg" width=50% class="center">
+    <h2>Major: Economics</h2>
+    <h3> Minors: Math, Computer Science, and Anthroplogy</h3>
+    <h4>Graduation: 2021</h4>
+        <p>I am a Junior at Saint Mary's College of California pursuing a Bachelor of Science in Economoics. I am passionate about learning new technology to further develop my economic understanding. I am working towards recieving my Technology, Engenieering, and Buisness certificate by learning Python, GitHub, Machine
+        Learning, Database-Backed App Development, and Cloud Computing. After gaining experience using these softwares, I hope to become more efficent and innovative to ultimately suceed in the technology industry. </p>
     <p><b><a href="www.linkedin.com/in/sydneyemeyer" target="www.linkedin.com/in/sydneyemeyer">Visit My Linkedin Page</a></b></p>
-
-
 
 
 </body>

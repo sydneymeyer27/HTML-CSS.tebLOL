@@ -2,19 +2,66 @@
 <html>
 
 <head>
-    <link rel="stylesheet" href="styles.css">
+    <style>
+        body {
+            background-color: rgb(129, 89, 14);
+        }
+        
+        h1 {
+            color: wheat;
+            text-align: center;
+            font-family: 'Courier New', Courier, monospace;
+        }
+        
+        h2 {
+            color: white;
+            text-align: center;
+            font-family: 'Courier New', Courier, monospace;
+        }
+        
+        h3 {
+            color: white;
+            text-align: center;
+            font-family: 'Courier New', Courier, monospace;
+        }
+        
+        h4 {
+            color: white;
+            text-align: center;
+            font-family: 'Courier New', Courier, monospace;
+        }
+        
+        img {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        
+        a {
+            color: white;
+            font-family: 'Courier New', Courier, monospace;
+            text-align;
+            center:
+        }
+    </style>
 
 </head>
 
 <body>
 
     <h1>Arish Balasubramaniam</h1>
+    <img src="arish.JPG" width=220 class="center">
+    <h2>Major: Business Analytics and Finance</h2>
+    <h3>Graduation Date: FALL 21</h3>
+    <h4>Business Administration undergraduate student at Saint Mary's College of California with an interest in quantitative analytics, business intelligence, and big data. Seeking a summer Information Technology or business internship to apply my experiences
+        assisting the company's success through analyzing and developing solutions from collected data.</h4>
 
 
-    <p>Arish, Kiera, Sophie, and Sydney</p>
+
+
+    <p></p>
 
 </body>
 
-</table>
 
 </html>
