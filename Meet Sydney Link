@@ -14,19 +14,19 @@
         }
         
         h2 {
-            color: black;
+            color: navy;
             text-align: center;
             font-family: 'Courier New', Courier, monospace;
         }
         
         h3 {
-            color: black;
+            color: navy;
             text-align: center;
             font-family: 'Courier New', Courier, monospace;
         }
         
         h4 {
-            color: black;
+            color: navy;
             text-align: center;
             font-family: 'Courier New', Courier, monospace;
         }
@@ -47,13 +47,13 @@
 <body>
 
     <h1>Sydney Meyer</h1>
+    <img src="Syd.jpg" width=50% class="center">
     <h2>Major: Economics</h2>
     <h3> Minors: Math, Computer Science, and Anthroplogy</h3>
     <h4>Graduation: 2021</h4>
-    <p>I am a Junior at Saint Mary's College of California pursuing a Bachelor of Science in Economoics. </p>
+        <p>I am a Junior at Saint Mary's College of California pursuing a Bachelor of Science in Economoics. I am passionate about learning new technology to further develop my economic understanding. I am working towards recieving my Technology, Engenieering, and Buisness certificate by learning Python, GitHub, Machine
+        Learning, Database-Backed App Development, and Cloud Computing. After gaining experience using these softwares, I hope to become more efficent and innovative to ultimatly suceed in the technology industry. </p>
     <p><b><a href="www.linkedin.com/in/sydneyemeyer" target="www.linkedin.com/in/sydneyemeyer">Visit My Linkedin Page</a></b></p>
-
-
 
 
 </body>
