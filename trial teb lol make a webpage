@@ -1,20 +1,83 @@
 <!DOCTYPE html>
 <html>
-
 <head>
-<style>
-body {
-  background-color: black;
-}
+    <style>
+        body {
+            background-color: black;
+        }
+        
+        h1 {
+            font-size: 40px;
+            color:white;
+            text-align: center;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        }
+        h2 {
+            font-size: 30px;
+            color:white;
+            text-align: center;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        }
+        h3{
+            font-size: 25px;
+            color:white;
+            text-align: center;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        }
+        a{
+            color: white;
+            text-align: center;
+        }
+        img {
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+            }
+            table {
+                font-size: 18px;
+                color: White;
+                font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            }
+            
+    </style>
+</head>
 
-h1 {
-  color: white;
-  text-align: center;
-}
-a {
-  color: hotpink;
-}
+<body>
 
+    <h1>TEB 2019 </h1>
+    <h2>Arish, Kiera, Sophie, and Sydney</h2>
+    <h3>We are a group of Saint Mary's students excited to be learning about new technologies and preparing ourselves for our future. We have worked hard to learn new software such as Git, Sourcetree, Atom, HMTL, and CSS, and using visual studio code.</h3>
+    <table style="width:100%">
+        <tr>
+            <th>Name</th>
+            <th>Link</th>
+            <th>Badges</th>
+        </tr>
+        <tr>
+           <th>Kiera Armintrout</th> 
+           <th><p><b><a href="Kiera Link" target="_kiera_link">Meet Kiera</a></b></p></th>
+           <th>?</th>
+        </tr>
+        <tr>
+            <th> Sophie Elcenko</th>
+            <th><p><b><a href="Sophie" target="_sophie">Meet Sophie</a></b></p></th>
+            <th>?</th>
+        </tr>
+        <tr>
+            <th> Sydney Meyer</th>
+            <th> <p><b><a href="Meet Sydney Link" target="_blank">Meet Sydney</a></b></p></h1></th>
+            <th>?</th>
+        </tr>
+        <tr>
+            <th> Arish Balasubramaniam</th>
+            <th><p><b><a href="arish" target="_arish">Meet Arish</a></b></p></th>
+            <th>?</th>
+        </tr>
     </table>
+        <img src="https://cdn.britannica.com/31/204431-138-B5008F47/time-lapse-video-San-Francisco.jpg" width="50%">
+
+</body>
+
+</table>
 
 </html>
