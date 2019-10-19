@@ -32,6 +32,14 @@
                 margin-left: auto;
                 margin-right: auto;
             }
+            a {
+                color:white;
+                font-family:'Courier New', Courier, monospace;
+
+                text-align;center:
+
+
+            }
         
         
         </style>
@@ -47,6 +55,7 @@
                     finance and minoring in computer science. Looking toward the future, I hope to develop and utilize my
                      financial and computer science knowledge within the growing fintech industry. I am happy to be apart of the TEB
                      program where I am being exposed  to technologies that will help me succeed in the cutting-edge tech field.</h4>
+                     <h2> <p><b><a href="https://www.linkedin.com/in/sophie-elcenko/" target="https://www.linkedin.com/in/sophie-elcenko/" > Please Visit my LinkedIn Profile</a></b></p></h2>
 
 
 
