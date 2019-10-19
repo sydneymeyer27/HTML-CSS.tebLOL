@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        body {
+            background-color: black;
+        }
+        
+        h1 {
+            font-size: 40px;
+            color: white;
+            text-align: center;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        }
+        
+        h2 {
+            font-size: 30px;
+            color: white;
+            text-align: center;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        }
+        
+        h3 {
+            font-size: 20px;
+            color: white;
+            text-align: center;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        }
+        
+        a {
+            color: white;
+            text-align: center;
+        }
+        
+        img {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        
+        table {
+            font-size: 18px;
+            color: White;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        }
+    </style>
+</head>
+<h1>Our Short Story</h1>
+<h3>Once upon a time four kids were stuck in the library. And they were very confused on a school project. They stayed up all night to try and learn how to do the project. But thats when the kids remembered god is a gael. And God remembered He was a gael
+    and said to them, "The library closes at 11."" Panic ensued and they started planning how to hide overnight in the library. Thats when they stole books to learn how to github since they had no clue. They read all the books in the library and lived
+    to tell their story through a Zoom video recording. The END</h3>
+
+</html>

@@ -58,7 +58,7 @@
             <th>Link</th>
             <th>Badges</th>
         </tr>
-        
+
         <tr>
             <th> Arish Balasubramaniam</th>
             <th>
@@ -67,28 +67,32 @@
             <th>?</th>
         </tr>
         <tr>
-                <th>Kiera Armintrout</th>
-                <th>
-                    <p><b><a href="Kiera Link" target="_kiera_link">Meet Kiera</a></b></p>
-                </th>
-                <th>?</th>
-            </tr>
-            <tr>
-                    <th> Sophie Elcenko</th>
-                    <th>
-                        <p><b><a href="Sophie" target="_sophie">Meet Sophie</a></b></p>
-                    </th>
-                    <th>?</th>
-                </tr>
-                <tr>
-                    <th> Sydney Meyer</th>
-                    <th>
-                        <p><b><a href="Meet Sydney Link" target="_blank">Meet Sydney</a></b></p>
-                        </h1>
-                    </th>
-                    <th>?</th>
-                </tr>
+            <th>Kiera Armintrout</th>
+            <th>
+                <p><b><a href="Kiera Link" target="_kiera_link">Meet Kiera</a></b></p>
+            </th>
+            <th>?</th>
+        </tr>
+        <tr>
+            <th> Sophie Elcenko</th>
+            <th>
+                <p><b><a href="Sophie" target="_sophie">Meet Sophie</a></b></p>
+            </th>
+            <th>?</th>
+        </tr>
+        <tr>
+            <th> Sydney Meyer</th>
+            <th>
+                <p><b><a href="Meet Sydney Link" target="_blank">Meet Sydney</a></b></p>
+                </h1>
+            </th>
+            <th>?</th>
+        </tr>
     </table>
+    <h1>
+        <a href="Shortstory">Our Short Story </a>
+    </h1>
+    <h1></h1>
     <img src="saint marys.jpg" width="50%">
 
 </body>
