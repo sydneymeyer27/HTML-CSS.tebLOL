@@ -2,42 +2,8 @@
 <html>
 
 <head>
-    <style>
-        body {
-            background-color: black;
-        }
-        
-        h1 {
-            color: black;
-            text-align: center;
-        }
-        
-        a {
-            color: hotpink;
-        }
-        
-        <head><style>body {
-            background-color: ;
-        }
-        
-        h1 {
-            color: white;
-            text-align: center;
-        }
-        
-        h1 {
-            color: black text-align: center;
-        }
-        
-        a {
-            color: hotpink;
-        }
-        
-        p {
-            font-family: verdana;
-            font-size: 25px;
-        }
-    </style>
+    <link rel="stylesheet" href="styles.css">
+
 </head>
 
 <body>
