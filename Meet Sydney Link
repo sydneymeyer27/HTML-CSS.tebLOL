@@ -2,7 +2,45 @@
 <html>
 
 <head>
-    <link rel="stylesheet" href="styles.css">
+    <style>
+        body {
+            background-color: rgb(165, 203, 209);
+        }
+        
+        h1 {
+            color: navy;
+            text-align: center;
+            font-family: 'Courier New', Courier, monospace;
+        }
+        
+        h2 {
+            color: black;
+            text-align: center;
+            font-family: 'Courier New', Courier, monospace;
+        }
+        
+        h3 {
+            color: black;
+            text-align: center;
+            font-family: 'Courier New', Courier, monospace;
+        }
+        
+        h4 {
+            color: black;
+            text-align: center;
+            font-family: 'Courier New', Courier, monospace;
+        }
+        
+        p {
+            color: black
+        }
+        
+        img {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+    </style>
 </head>
 
 <body>
@@ -11,16 +49,10 @@
     <p>Major: Economics</p>
     <p> Minors: Math, Computer Science, and Anthroplogy</p>
     <p>Graduation: 2021</p>
-        <p><b><a href="www.linkedin.com/in/sydneyemeyer" target="www.linkedin.com/in/sydneyemeyer">Visit My Linkedin Page</a></b></p>
-        
+    <p><b><a href="www.linkedin.com/in/sydneyemeyer" target="www.linkedin.com/in/sydneyemeyer">Visit My Linkedin Page</a></b></p>
 
-    <h1>TEB 2019</h1>
-    <p>Sydney</p>
-    <p>Hi my name is Sydney</p>
-    <p><b><a href="arish" target="_arish">Meet Arish</a></b></p>
-    <p><b><a href="Kiera Link" target="_Kiera_Link">Meet Kiera</a></b></p>
-    <p><b><a href="Sophie" target="_sophie">Meet Sophie</a></b></p>
-    <p><b><a href="Meet Sydney Link" target="_meet_sydney_link">Meet Sydney</a></b></p>
+
+
 
 </body>
 </table>
