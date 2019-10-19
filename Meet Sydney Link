@@ -4,7 +4,7 @@
 <head>
     <style>
         body {
-            background-color: black;
+            background-color:rgb(217, 243, 237);
         }
         
         h1 {
@@ -13,7 +13,7 @@
         }
         
         a {
-            color: hotpink;
+            color:black;(34, 6, 20);
         }
         
         <head><style>body {
@@ -21,7 +21,7 @@
         }
         
         h1 {
-            color: white;
+            color: black;
             text-align: center;
         }
         
@@ -30,11 +30,11 @@
         }
         
         a {
-            color: hotpink;
+            color: navy;
         }
         
         p {
-            font-family: verdana;
+            font-family: arial;
             font-size: 25px;
         }
     </style>
@@ -42,13 +42,13 @@
 
 <body>
 
-    <h1>TEB 2019</h1>
-    <p>Sydney</p>
-    <p>Hi my name is Sydney</p>
-        <p><b><a href="arish" target="_arish">Meet Arish</a></b></p>
-        <p><b><a href="Kiera Link" target="_Kiera_Link">Meet Kiera</a></b></p>
-        <p><b><a href="Sophie" target="_sophie">Meet Sophie</a></b></p>
-        <p><b><a href="Meet Sydney Link" target="_meet_sydney_link">Meet Sydney</a></b></p>
+    <h1>Sydney Meyer</h1>
+    <p>Major: Economics</p>
+    <p> Minors: Math, Computer Science, and Anthroplogy</p>
+    <p>Graduation: 2021</p>
+        <p><b><a href="www.linkedin.com/in/sydneyemeyer" target="www.linkedin.com/in/sydneyemeyer">Visit My Linkedin Page</a></b></p>
+        
+
 
 </body>
 </table>
