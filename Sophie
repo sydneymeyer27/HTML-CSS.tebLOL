@@ -35,7 +35,6 @@
             a {
                 color:white;
                 font-family:'Courier New', Courier, monospace;
-
                 text-align;center:
 
 
@@ -47,7 +46,7 @@
 
     <body>
         <h1>Sophie Elcenko </h1>
-        <img src="Sophie.jpg" width=220 class="center" >
+        <img src="Sophie.jpg" width=40% class="center" >
         <h2>MAJOR: Finance </h2>     
         <h2>MINOR: Computer Science </h2>
         <h3> Graduation Date: 2022 </h3>
