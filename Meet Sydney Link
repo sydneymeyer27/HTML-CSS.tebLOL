@@ -4,36 +4,42 @@
 <head>
     <style>
         body {
-            background-color:rgb(165, 203, 209);
+            background-color: rgb(165, 203, 209);
         }
-        h1 {
-            color:navy;
-            text-align: center;
-            font-family:'Courier New', Courier, monospace;
         
+        h1 {
+            color: navy;
+            text-align: center;
+            font-family: 'Courier New', Courier, monospace;
         }
+        
         h2 {
-            color:black;
-            text-align:center;
-            font-family:'Courier New', Courier, monospace;
+            color: black;
+            text-align: center;
+            font-family: 'Courier New', Courier, monospace;
         }
+        
         h3 {
-            color:black;
-            text-align:center;
-            font-family:'Courier New', Courier, monospace;
+            color: black;
+            text-align: center;
+            font-family: 'Courier New', Courier, monospace;
         }
-        h4{
-            color:black;
-            text-align:center;
-            font-family:'Courier New', Courier, monospace;
+        
+        h4 {
+            color: black;
+            text-align: center;
+            font-family: 'Courier New', Courier, monospace;
         }
+        
+        p {
+            color: black
+        }
+        
         img {
             display: block;
             margin-left: auto;
             margin-right: auto;
         }
-    
-    
     </style>
 </head>
 
@@ -43,10 +49,10 @@
     <p>Major: Economics</p>
     <p> Minors: Math, Computer Science, and Anthroplogy</p>
     <p>Graduation: 2021</p>
-        <p><b><a href="www.linkedin.com/in/sydneyemeyer" target="www.linkedin.com/in/sydneyemeyer">Visit My Linkedin Page</a></b></p>
-        
+    <p><b><a href="www.linkedin.com/in/sydneyemeyer" target="www.linkedin.com/in/sydneyemeyer">Visit My Linkedin Page</a></b></p>
 
-   
+
+
 
 </body>
 </table>
