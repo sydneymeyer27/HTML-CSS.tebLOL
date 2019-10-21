@@ -37,10 +37,8 @@
 
 <body>
     <h1>Kiera Armintrout</h1>
-    <img src="KIERA.jpg" width=50% class ="center" data-rotate="90">
-  
+    <img src="KIERA.jpg" width=50%, class ="center" data-rotate="90">
 
-    
     <h2>Majors: Marketing and Economics</h2>
     <h3>Minor: Mathematics</h3>
     <h3>Graduation Date: 2021</h3>
@@ -48,6 +46,5 @@
             in Marketing and Economics, and a minor in math. I recently returned from an exchange semester in Barcelona, Spain where I learned 
             more about global business and maintaining a globa mindset. I want to learn more about technology, and how I can integrate my business and economic market understanding with 
             technological innovation</h4>.
-    <h3>
-        <p><b><a href="https://www.linkedin.com/in/kiera-armintrout-344a25171/" target="https://www.linkedin.com/in/kiera-armintrout-344a25171/">Please Visit My Linkedin Page</a></b></p>
+        <h3> <p><b><a href="https://www.linkedin.com/in/kiera-armintrout-344a25171/" target="https://www.linkedin.com/in/kiera-armintrout-344a25171/">Please Visit My LinkedIn Page</a></b></p>
 
